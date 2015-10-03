@@ -1,0 +1,17 @@
+//package src;
+
+//public interface DisplayElement  {
+
+
+//  public  StatisticsDisplay (Subject weatherData) {
+//  this.weatherData = weatherData;
+//  weatherData.registerObserver(this);
+// }
+
+//  public  ForecastDisplay (Subject weatherData) {
+//  this.weatherData = weatherData;
+//  weatherData.registerObserver(this);
+// }
+  
+  
+//}
